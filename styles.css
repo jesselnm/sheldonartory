@@ -1,0 +1,42 @@
+.body{
+  font-family: 'Lato';
+}
+
+/* Top Section */
+#title{
+  background-color: #ec5858;
+}
+
+.container-fluid{
+  padding: 1% 7%;
+}
+
+.brand-img{
+  border-radius: 10%;
+}
+
+.brand-h1{
+  font-family: 'Yellowtail';
+  font-weight: 500;
+  font-size: 3rem;
+  color: #edf285;
+  padding-left: 3%;
+}
+
+.nav-item{
+  padding: 0 7px;
+}
+
+.nav-link{
+  font-size: 1.6rem;
+  color: #edf285;
+}
+
+/* Caousel Section */
+
+#carousel{
+  background-color: #93abd3;
+  text-align: center;
+}
+
+.
