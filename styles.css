@@ -4,7 +4,7 @@
 
 /* Top Section */
 #title{
-  background-color: #ec5858;
+  background-color: #222831;
 }
 
 .container-fluid{
@@ -19,7 +19,7 @@
   font-family: 'Yellowtail';
   font-weight: 500;
   font-size: 3rem;
-  color: #edf285;
+  color: #e8e8e8;
   padding-left: 3%;
 }
 
@@ -29,7 +29,7 @@
 
 .nav-link{
   font-size: 1.6rem;
-  color: #edf285;
+  color: #e8e8e8;
 }
 
 /* Caousel Section */
@@ -37,6 +37,24 @@
 #carousel{
   background-color: #93abd3;
   text-align: center;
+  padding: 5.5% 10%;
 }
 
-.
+.xmas-offer{
+  width: 747px;
+  height: 551px;
+}
+
+.xmas-stickers{
+  width: 747px;
+  height: 551px;
+}
+
+.animal-students{
+  width: 747px;
+  height: 551px;
+}
+
+.carousel-inner{
+  padding-bottom: 5%;
+}
